@@ -30,7 +30,7 @@ Hi, I’m Md. Auntor Rahman – a passionate full-stack web developer who loves 
   <a href="https://github.com/auntor0022" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="[https://twitter.com/SazidSifat14576](https://x.com/auntor46)" target="_blank">
+  <a href="https://x.com/auntor46" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
