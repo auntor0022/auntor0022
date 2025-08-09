@@ -93,6 +93,3 @@ I'm Md. Auntor Rahman, a passionate full-stack developer who transforms ideas in
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=auntor0022&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top languages" />
 </p>
 
----
-
-[![Visitor Count](https://visitcount.itsvg.in/api?id=auntor0022&icon=0&color=0)](https://visitcount.itsvg.in)
